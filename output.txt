@@ -1,0 +1,119 @@
+Thoi_gian 2020-04-09 15:36:49.567793
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:51.339974
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:52.342646
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:53.343654
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:54.339856
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:55.348725
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:56.341871
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:57.340635
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:58.340185
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:36:59.340076
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:37:00.340760
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:37:01.338926
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:37:02.338937
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:37:03.338892
+person 2
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:37:04.340098
+person 2
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:37:05.338903
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
+Thoi_gian 2020-04-09 15:37:06.338901
+person 1
+bicycle 0
+car 0
+bike 0
+bus 0
+truck 0
