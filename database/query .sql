@@ -1,1 +1,0 @@
-select * from camera_people order by ID desc
